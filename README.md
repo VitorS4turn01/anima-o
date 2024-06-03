@@ -1,4 +1,4 @@
-# anima-o
+# animação
 <div>
 <h1> Explicação sobre as ferramentas usadas na animação </h1>
 </div>
