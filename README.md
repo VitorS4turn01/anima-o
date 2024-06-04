@@ -36,10 +36,10 @@
 </div>
 <div>
   <h1>
-    segue abaixo os arquivos e o link da animação feita pelo pixilart
+    segue abaixo os arquivos e o link da animação feita pelo pixilart, infelizmente por dificuldades técnicas do meu hardware, não consegui extrair corretamente os png e o .pixil
   </h1>
 </div>
-
+<https://www.pixilart.com/photo/batiman-b10a62f3666cf2f>
 <div>
   https://www.pixilart.com/photo/batiman-b10a62f3666cf2f
 </div>
