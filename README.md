@@ -3,7 +3,7 @@
 <h1> Explicação sobre as ferramentas usadas na animação </h1>
 </div>
 <div>
-  POr vitor vicente e Kevin cavalcante - 2jd
+  Por vitor vicente e Kevin cavalcante - 2jd
 </div>
 
 <h2>
@@ -33,6 +33,9 @@
 </div>
 <div>
   As Layers foram usadas para separar elementos que não poderiam ser unicos, como a chuva, a torre, a televisão, o Mike Wazowski, o Batman e as nuvens
+</div>
+<div>
+  O Contexto da cena é o batman assistindo monstros S.A enquanto os jovens titãs fazem uma festa
 </div>
 <div>
   <h1>
