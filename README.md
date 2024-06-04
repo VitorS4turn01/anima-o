@@ -2,6 +2,9 @@
 <div>
 <h1> Explicação sobre as ferramentas usadas na animação </h1>
 </div>
+<div>
+  POr vitor vicente e Kevin cavalcante - 2jd
+</div>
 
 <h2>
   <div>
