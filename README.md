@@ -36,7 +36,7 @@
 </div>
 <div>
   <h1>
-    segue abaixo o link da animação feita pelo pixilart
+    segue abaixo os arquivos e o link da animação feita pelo pixilart
   </h1>
 </div>
 
